@@ -1,6 +1,6 @@
 # DSA210 Course Project
 
-## YouTube Watching Habits: Analyzing Content, Time, and Location
+## YouTube Watching Habits: Analyzing Content and Time
 
 ### Description
 This project analyzes my personal YouTube watch history to uncover patterns in video consumption across different categories and times of the year. The aim is to understand how my viewing habits correlate with exam weeks.
